@@ -7,7 +7,7 @@ const projectcards = document.querySelector(".projectcards");
 const projects = [
   {
     title: "Visualization with Dash Plotly",
-    cardImage: "assets/images/project-page/dash_map.png",
+    cardImage: "assets/images/project-page/dash_map.jpg",
     description: "A quiz app built using basic react.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
