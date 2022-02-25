@@ -29,13 +29,22 @@ const projects = [
     Previewlink: "",
     Githublink: "https://github.com/blancaRE/ds_portfolio/tree/main/Binary%20CLassification%20NN",
   },
+
   {
-    title: "Decision Tree Classifier",
+    title: "Web scrapping",
+    cardImage: "assets/images/project-page/web-scraping.png",
+    description: "Flappy bird game built using React.js",
+    tagimg: "./assets/images/project-page/web-scraping.png", 
+    Previewlink: "",
+    Githublink: "https://github.com/blancaRE/ds_portfolio/tree/main/Web%20scrapping",
+  },
+  {
+    title: "Maternal Mortality Classifier",
     cardImage: "assets/images/project-page/tree.png",
     description: "Exercise tracker built using basic redux.",
     tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
     Previewlink: "",
-    Githublink: "https://github.com/blancaRE/ds_portfolio/tree/main/Penguin%20species%20classifier",
+    Githublink: "https://github.com/blancaRE/ds_portfolio/tree/main/Maternal%20mortality",
   },
 
 ];
