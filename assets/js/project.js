@@ -47,6 +47,15 @@ const projects = [
     Githublink: "https://github.com/blancaRE/ds_portfolio/tree/main/Maternal%20mortality",
   },
 
+  {
+    title: "EDA: Real State",
+    cardImage: "assets/images/project-page/EDA_Vienna2.png",
+    description: "Exercise tracker built using basic redux.",
+    tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
+    Previewlink: "",
+    Githublink: "https://github.com/blancaRE/ds_portfolio/tree/main/EDA%20SReal%20state/README.md",
+  },
+
 ];
 
 // function for rendering project cards data
