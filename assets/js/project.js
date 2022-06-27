@@ -6,9 +6,18 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
+    title: "E-commerce: EDA and Recommender System",
+    cardImage: "assets/images/project-page/e_commerce.PNG",
+    description: "",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "",
+    Githublink: "https://github.com/blancaRE/ds_portfolio/tree/main/E_commerce",
+  },
+
+  {
     title: "Visualization with Dash Plotly",
     cardImage: "assets/images/project-page/dash_map.PNG",
-    description: "A quiz app built using basic react.",
+    description: " ",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
     Githublink: "https://github.com/blancaRE/ds_portfolio/tree/main/Nextflix%20cost%20interactive%20graph",
@@ -16,7 +25,7 @@ const projects = [
   {
     title: "Adversarial attack",
     cardImage: "assets/images/project-page/neural.png",
-    description: "A chess engine for a popular game dev engine.",
+    description: "",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png", 
     Previewlink: "",
     Githublink: "https://github.com/blancaRE/ds_portfolio/tree/main/Adversarial%20attack",
@@ -24,7 +33,7 @@ const projects = [
   {
     title: "Binary classification with Neural Networks",
     cardImage: "assets/images/project-page/train_6.png",
-    description: "Flappy bird game built using React.js",
+    description: " ",
     tagimg: "./assets/images/project-page/train_6.png ", 
     Previewlink: "",
     Githublink: "https://github.com/blancaRE/ds_portfolio/tree/main/Binary%20CLassification%20NN",
@@ -33,7 +42,7 @@ const projects = [
   {
     title: "Web scrapping",
     cardImage: "assets/images/project-page/web-scraping.png",
-    description: "Flappy bird game built using React.js",
+    description: " ",
     tagimg: "./assets/images/project-page/web-scraping.png", 
     Previewlink: "",
     Githublink: "https://github.com/blancaRE/ds_portfolio/tree/main/Web%20scrapping",
@@ -41,7 +50,7 @@ const projects = [
   {
     title: "Maternal Mortality Classifier",
     cardImage: "assets/images/project-page/tree.png",
-    description: "Exercise tracker built using basic redux.",
+    description: " ",
     tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
     Previewlink: "",
     Githublink: "https://github.com/blancaRE/ds_portfolio/tree/main/Maternal%20mortality",
@@ -50,7 +59,7 @@ const projects = [
   {
     title: "EDA: Real State",
     cardImage: "assets/images/project-page/EDA_Vienna2.png",
-    description: "Exercise tracker built using basic redux.",
+    description: " ",
     tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
     Previewlink: "",
     Githublink: "https://github.com/blancaRE/ds_portfolio/tree/main/EDA%20SReal%20state/README.md",
