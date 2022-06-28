@@ -7,7 +7,7 @@ const projectcards = document.querySelector(".projectcards");
 const projects = [
   {
     title: "E-commerce: EDA and Recommender System",
-    cardImage: "assets/images/project-page/e_commerce.PNG",
+    cardImage: "assets/images/project-page/e_commerce.png",
     description: "",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
