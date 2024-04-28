@@ -6,10 +6,18 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
+    title: "Data Scientist",
+    cardImage: "assets/images/experience-page/stapptronics_logo.jpg",
+    place: "Stapp one",
+    time: "(Sep, 2022 - present)",
+    desp: "<li>Development of statistics and AI models. </li><li>Data processing and data analysis. </li> <li>Support and independent realization of research projects. </li> <li>Version control and software maintenance. </li><li>Documentation of project results.</li><li>Independent planning, management and implementation of projects.</li>",
+  
+  },
+  {
     title: "Project Assistant",
     cardImage: "assets/images/experience-page/TU_Wien1.png",
     place: "Vienna University of Technology",
-    time: "(Jan, 2019 - present)",
+    time: "(Jan, 2019 - Jun, 2022)",
     desp: "<li>Develop and evaluate models applying Poisson point processes.</li> <li>Statistical analysis.</li>",
   },
   {
