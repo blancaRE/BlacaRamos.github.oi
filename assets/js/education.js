@@ -5,6 +5,13 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
+    title: "Azure AI Fundamentals",
+    cardImage: "assets/images/education-page/ai_fun.svg",
+    moocLink: "https://learn.microsoft.com/en-gb/users/blancaramos-1991/credentials/c9e939455240dc5d",
+  },
+  
+
+  {
     title: "Data Science Professional Certificate",
     cardImage: "assets/images/education-page/Certificate_Data_Science.png",
     moocLink: "https://www.coursera.org/professional-certificates/ibm-data-science",
